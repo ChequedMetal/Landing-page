@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
       downloadButton.style.display = "block";
       downloadButton.textContent = "Descargar para Android";
       downloadButton.onclick = () => {
-        window.location.href = "https://example.com/app.apk"; // Cambia el enlace por el de tu APK
+        window.location.href = "https://drive.google.com/file/d/1rwf0pbsSIoVogU5jLrXrD1YnvAOhaK_O/view?usp=drive_link"; // Cambia el enlace por el de tu APK
       };
     }
   });
